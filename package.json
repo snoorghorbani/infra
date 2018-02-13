@@ -1,6 +1,6 @@
 {
 	"name": "@soushians/infra",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "",
 	"main": "index.js",
   "typings": [ "./index.d.ts" ],
@@ -23,12 +23,12 @@
 		"@angular/platform-browser": "^5.x.x",
 		"@angular/platform-browser-dynamic": "^5.x.x",
 		"@angular/router": "^5.x.x",
-		"@angular/service-worker": "^5.1.1",
-		"@ngrx/effects": "^4.0.5",
-		"@ngrx/router-store": "^4.0.4",
-		"@ngrx/store": "^4.0.3",
-		"@ngrx/store-devtools": "^4.0.0",
-		"rxjs": "^5.5.6"
+		"@angular/service-worker": "^5.x.x",
+		"@ngrx/effects": "^4.x.x",
+		"@ngrx/router-store": "^4.x.x",
+		"@ngrx/store": "^4.x.x",
+		"@ngrx/store-devtools": "^4.x.x",
+		"rxjs": "^5.x.x"
 	},
 	"devDependencies": {
 		"typescript": "^2.7.1"
