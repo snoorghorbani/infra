@@ -1,6 +1,6 @@
 {
 	"name": "@soushians/infra",
-	"version": "1.0.11",
+	"version": "1.0.13",
 	"description": "",
 	"main": "index.js",
   "typings": [ "./index.d.ts" ],
@@ -15,7 +15,7 @@
 		"@angular/compiler": "^5.x.x",
 		"@angular/compiler-cli": "^5.x.x",
 		"@angular/core": "^5.x.x",
-		"@angular/flex-layout": "^2.x.x",
+		"@angular/flex-layout": "^2.0.0-beta.10-4905443",
 		"@angular/forms": "^5.x.x",
 		"@angular/http": "^5.x.x",
 		"@angular/language-service": "^5.x.x",
