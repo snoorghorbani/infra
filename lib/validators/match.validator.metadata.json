@@ -1,0 +1,1 @@
+[{"__symbolic":"module","version":4,"metadata":{"MatchValidator":{"__symbolic":"function","parameters":["destination"],"value":{"__symbolic":"error","message":"Lambda not supported","line":3,"character":11}}}}]
